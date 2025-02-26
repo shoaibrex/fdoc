@@ -1,6 +1,5 @@
 # fdoc: Documentation format and verification
 ## Note
-This repo is forked from square/fdoc. The square/fdoc version is not actively maintained and does not support ruby 3.x. This version is updated to support ruby 3.x.
 
 High-quality documentation is extremely useful, but maintaining it is often a pain. We aim to create a tool to facilitate easy creation and maintenance of API documentation.
 
