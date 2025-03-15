@@ -1,5 +1,4 @@
 # fdoc: Documentation format and verification
-## Note
 
 High-quality documentation is extremely useful, but maintaining it is often a pain. We aim to create a tool to facilitate easy creation and maintenance of API documentation.
 
